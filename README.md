@@ -1,2 +1,2 @@
 # webapps
-Repository holding webapps
+Webapps repository  
