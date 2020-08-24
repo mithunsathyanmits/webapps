@@ -1,4 +1,4 @@
-# react-redux-hackernews
+# react-clone-hackernews
 
 ## Features
 
